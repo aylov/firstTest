@@ -1,1 +1,5 @@
 C:\VisualStudio\temp\git-test\firstTest\console-test\console-test\bin\Debug\console-test.exe.config
+C:\VisualStudio\temp\git-test\firstTest\console-test\console-test\bin\Debug\console-test.exe
+C:\VisualStudio\temp\git-test\firstTest\console-test\console-test\bin\Debug\console-test.pdb
+C:\VisualStudio\temp\git-test\firstTest\console-test\console-test\obj\Debug\console-test.exe
+C:\VisualStudio\temp\git-test\firstTest\console-test\console-test\obj\Debug\console-test.pdb
